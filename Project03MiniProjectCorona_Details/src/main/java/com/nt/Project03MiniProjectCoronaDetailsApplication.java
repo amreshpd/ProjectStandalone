@@ -21,6 +21,7 @@ public class Project03MiniProjectCoronaDetailsApplication {
 		list1.forEach(ptm->{
 			System.out.println(ptm);
 		});
+		System.out.println("All Details are here");
 		} catch (Exception e) {
 			System.err.println(e.getMessage());
 			System.err.println("Internal Problem");
